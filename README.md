@@ -2,8 +2,7 @@
 
 ![Asarne's GitHub stats](https://github-readme-stats.vercel.app/api?username=asarne&show_icons=true&theme=codeSTACKr)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asarne&langs_count=8&theme=codeSTACKr)](https://github.com/asarne)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asarne&layout=compact&theme=codeSTACKr)](https://github.com/asarne)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asarne=vim%20script)](https://github.com/asarne/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=asarne&theme=codeSTACKr&hide_border=true)](https://github.com/asarne)
 
