@@ -3,7 +3,7 @@
 ![Asarne's GitHub stats](https://github-readme-stats.vercel.app/api?username=asarne&show_icons=true&theme=codeSTACKr)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asarne&langs_count=8&theme=codeSTACKr)](https://github.com/asarne)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asarne&layout=compact&langs_count=8&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asarne&layout=compact&theme=codeSTACKr)](https://github.com/asarne)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=asarne&theme=codeSTACKr&hide_border=true)](https://github.com/asarne)
 
