@@ -2,7 +2,7 @@
 
 ![Asarne's GitHub stats](https://github-readme-stats.vercel.app/api?username=asarne&show_icons=true&theme=radical)
 
-[![Top Langs]<img src="https://github-readme-stats.vercel.app/api/top-langs?username=asarne&layout=compact"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=asarne&layout=compact)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=asarne&theme=radical&hide_border=true)](https://github.com/asarne)
 
